@@ -1,5 +1,6 @@
 google.generativeai
 python-dotenv
 IPython.display
-
+requests
+bs4
 
